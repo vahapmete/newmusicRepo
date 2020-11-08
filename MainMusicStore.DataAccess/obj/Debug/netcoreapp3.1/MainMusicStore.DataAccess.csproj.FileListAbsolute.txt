@@ -1,0 +1,12 @@
+C:\MainMusicStore\MainMusicStore.DataAccess\bin\Debug\netcoreapp3.1\MainMusicStore.DataAccess.deps.json
+C:\MainMusicStore\MainMusicStore.DataAccess\bin\Debug\netcoreapp3.1\MainMusicStore.DataAccess.dll
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.AssemblyInfoInputs.cache
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.AssemblyInfo.cs
+C:\MainMusicStore\MainMusicStore.DataAccess\bin\Debug\netcoreapp3.1\MainMusicStore.DataAccess.pdb
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.dll
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.pdb
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.csprojAssemblyReference.cache
+C:\MainMusicStore\MainMusicStore.DataAccess\bin\Debug\netcoreapp3.1\MainMusicStore.Models.dll
+C:\MainMusicStore\MainMusicStore.DataAccess\bin\Debug\netcoreapp3.1\MainMusicStore.Models.pdb
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.csproj.CopyComplete
+C:\MainMusicStore\MainMusicStore.DataAccess\obj\Debug\netcoreapp3.1\MainMusicStore.DataAccess.csproj.CoreCompileInputs.cache
